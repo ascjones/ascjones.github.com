@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://ascjones.github.io/atom.xml" rel="self"/>
-  <link href="http://ascjones.github.io/"/>
-  <updated>2013-06-18T09:41:45+02:00</updated>
-  <id>http://ascjones.github.io/</id>
+  <title><![CDATA[devomato]]></title>
+  <link href="http://devomato.com/atom.xml" rel="self"/>
+  <link href="http://devomato.com/"/>
+  <updated>2013-06-19T08:57:38+02:00</updated>
+  <id>http://devomato.com/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Andrew Jones]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[test]]></title>
+    <link href="http://devomato.com/blog/2013/06/19/test/"/>
+    <updated>2013-06-19T08:56:00+02:00</updated>
+    <id>http://devomato.com/blog/2013/06/19/test</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
 </feed>
