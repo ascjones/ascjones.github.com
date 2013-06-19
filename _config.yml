@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://ascjones.github.io
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://devomato.com
+title: devomato
+subtitle: Fruit, vegetable...code?
+author: Andrew Jones
 simple_search: http://google.com/search
 description:
 
